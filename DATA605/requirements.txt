@@ -1,0 +1,6 @@
+prefect
+requests
+pandas
+sqlalchemy
+matplotlib
+plotly
